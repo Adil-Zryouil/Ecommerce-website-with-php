@@ -1,0 +1,20 @@
+
+.card {
+    border-radius: 0 !important;
+}
+
+button:hover,
+button:focus,
+button:visited,
+button:active,
+a:hover,
+a:focus,
+a:visited,
+a:active {
+    text-decoration: none !important;
+}
+
+#logo1,#logo2 {
+    font-family: Arial, Helvetica, sans-serif !important;
+  
+}
